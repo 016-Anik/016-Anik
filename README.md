@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/download.jpg" width="70%">
+<img src="https://github.com/016-Anik/016-Anik/blob/main/download.jpg" width="70%">
 
 ### 🌷 Informatics Student | Aspiring Web Developer
 
